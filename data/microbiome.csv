@@ -1,0 +1,6 @@
+Sample,Group,Fusobacterium,Prevotella,Streptococcus,Haemophilus
+S1,Control,10,25,40,25
+S2,Control,12,22,42,24
+S3,HNSCC,35,30,15,20
+S4,HNSCC,40,28,12,20
+S5,HNSCC,38,32,10,20
