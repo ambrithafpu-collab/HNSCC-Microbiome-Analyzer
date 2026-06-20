@@ -36,10 +36,6 @@ A Python-based bioinformatics project for analyzing microbiome data from Head an
 
 \* NumPy
 
-\* Matplotlib
-
-\* SciPy
-
 
 
 \## Project Structure
